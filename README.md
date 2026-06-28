@@ -114,6 +114,7 @@ python main.py
 
 ## Demo Representation
 
+![Demo](Resources/demo.gif)
 
 ---
 
